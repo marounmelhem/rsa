@@ -1,0 +1,28 @@
+/**
+ * Main Styles
+ *
+ * @package  RSA Demo
+ * @developer  Maroun Melhem <http://maroun.me>
+ *
+ */
+/*general styles*/
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: 'Verdana', sans-serif;
+}
+
+html, body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.inner_container{
+    width:100%;
+    max-width: 400px;
+    margin:50px auto;
+    text-align: center;
+    min-height: 300px;
+}
